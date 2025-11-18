@@ -26,7 +26,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>Nivel1Singleton.Main</mainClass>
+                            <mainClass>main.java.Nivel1Singleton.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
