@@ -1,4 +1,5 @@
 # SPRINT 3 
+# TASCA 1
 # NIVELL 1
 # DESCRIPCIO
 Singleton Pattern
@@ -7,6 +8,7 @@ La classe 'Undo' ha de guardar les últimes comandes introduïdes. Ha de permetr
 La classe 'Undo' ha d'implementar imprescindiblement un patró Singleton.
 
 # SPRINT 3 
+# TASCA 1
 # NIVELL 2
 # DESCRIPCIO
 Abstract Factory
